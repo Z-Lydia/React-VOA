@@ -1,0 +1,5 @@
+@import './reset.css';
+
+body{
+	background:#EDF8FC url( '../static/image/background.jpg' ) no-repeat; 
+}

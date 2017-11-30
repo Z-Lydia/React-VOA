@@ -1,0 +1,80 @@
+.detailPage_container{
+	position:relative;
+	width: 1024px;
+	margin: 4px auto;
+}
+.detailPage_left{
+	width: 851px;
+	float: left;
+	background:#fff;
+}
+.detailPage_right{
+	position:absolute;
+	width: 160px;
+	right:0;
+	background:#fff;
+}
+.detailPage_nav{
+	height:30px;
+	line-height:30px;
+	font-size: 12px;
+	color: #ccc;
+	border-bottom: 1px dotted #bbb;
+    text-indent: 12px;
+}
+.detailPage_nav_a{
+	margin:0 4px; 
+}
+.detailPage_left_title_container{
+	border-bottom: 1px dotted #bbb;
+    padding: 10px 0;
+}
+.detailPage_left_title{
+    line-height: 30px;
+    padding-bottom: 5px;
+    text-align: center;
+    font-weight: bold;
+    color: #007dc6;
+    font-size: 16px;
+}
+.detailPage_left_title_Info{
+    text-align: center;
+    color: #0066cc;
+}
+.detailPage_article_container{
+	padding: 10px 15px 0 15px;
+    min-height: 275px;
+}
+.detailPage_article_ad{
+	width: 336px;
+    height: 280px;
+    margin: 5px 15px 0 0;
+    float: left;
+}
+.detailPage_article{
+	margin-top: 10px;
+    text-align: justify;
+    font-size: 12px;
+    line-height: 18px;
+}
+.detailPage_article_img{
+	float: left;
+}
+.detailPage_right_ad_img{
+	width:100%
+}
+.detailPage_audio_container{
+	position: absolute;
+	top: 0;
+	right: 175px;
+	height: 30px;
+}
+.detailPage_audio{
+	height: 30px;
+	display: none;
+}
+.detailPage_playBtn{
+	position: absolute;
+	right: 470px;
+	top:45px;
+}

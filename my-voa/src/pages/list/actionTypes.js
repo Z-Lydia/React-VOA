@@ -1,0 +1,1 @@
+export const GET_LIST_DATE = 'list/GET_LIST_DATE'
